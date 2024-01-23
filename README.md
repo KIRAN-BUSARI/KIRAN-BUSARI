@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KIRAN-BUSARI](https://github.com/KIRAN-BUSARI)
 
-- 📫 How to reach me **Kiranbsuari.dev@gmail.com**
+- 📫 How to reach me **Kiranbusari.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
