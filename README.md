@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **MERN and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KIRAN-BUSARI](https://github.com/KIRAN-BUSARI)
 
