@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Busari Kiran Kumar</h1>
-<h3 align="center">A passionate fullstack developer | M E R N Stack Developer</h3>
+<h3 align="center">A passionate fullstack developer | M E R N Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran-busari&label=Profile%20views&color=0e75b6&style=flat" alt="kiran-busari" /> </p>
 
