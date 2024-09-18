@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Busari Kiran Kumar</h1>
-<h3 align="center">A passionate fullstack developer | M E R N Stack</h3>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+
+<p align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Busari+Kiran+Kumar;AI-ML+Student;Full+Stack+Web+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran-busari&label=Profile%20views&color=0e75b6&style=flat" alt="kiran-busari" /> </p>
 
